@@ -1,0 +1,17 @@
+plugins {
+	id 'io.jnetsim.java-libs-conventions'
+	id 'application'
+}
+
+repositories {
+	mavenCentral()	
+}
+
+dependencies {
+	implementation 'org.openjfx:javafx-controls:17-ea+13'
+	implementation 'org.openjfx:javafx-fxml:17-ea+13'
+	implementation 'org.openjfx:javafx-graphics:17-ea+13'
+}
+
+sourceCompatibility = '16'
+targetCompatibility = '16'

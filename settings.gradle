@@ -1,0 +1,3 @@
+rootProject.name = 'jnetsim'
+include ('lib', 'app')
+

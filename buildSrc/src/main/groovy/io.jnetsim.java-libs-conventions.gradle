@@ -1,0 +1,4 @@
+plugins {
+	id 'io.jnetsim.java-commons-conventions'
+	id 'java-library'
+}
